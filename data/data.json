@@ -1,0 +1,20 @@
+{
+    "mobiles":[
+        {
+            "name": "Red MI Note5 Pro",
+            "image": "img/5-pro.jpg",
+            "originalprice":20000,
+            "price": 16000
+        }, {
+            "name": "Samsung A50s",
+            "image": "img/A50S.jpg",
+            "originalprice":23000,
+            "price": 18000
+        }, {
+            "name": "Red MI 8",
+            "image": "img/mi-8.jpg",
+            "originalprice":15000,
+            "price": 10000
+        }
+    ]
+}
