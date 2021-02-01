@@ -2,17 +2,17 @@
     "mobiles":[
         {
             "name": "Red MI Note5 Pro",
-            "image": "img/5-pro.jpg",
+            "image": "https://raw.githubusercontent.com/Sujitha-04/Ecommerce/main/img/5-pro.jpg",
             "originalprice":20000,
             "price": 16000
         }, {
             "name": "Samsung A50s",
-            "image": "img/A50S.jpg",
+            "image": "https://raw.githubusercontent.com/Sujitha-04/Ecommerce/main/img/A50S.JPG",
             "originalprice":23000,
             "price": 18000
         }, {
             "name": "Red MI 8",
-            "image": "img/mi-8.jpg",
+            "image": "https://raw.githubusercontent.com/Sujitha-04/Ecommerce/main/img/mi-8.JPG",
             "originalprice":15000,
             "price": 10000
         }
